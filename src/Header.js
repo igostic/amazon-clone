@@ -9,6 +9,7 @@ function Header() {
       
         <img
           className="header__logo"
+          alt="amazon"
           src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
         />
       
